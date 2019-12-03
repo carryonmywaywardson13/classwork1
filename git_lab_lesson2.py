@@ -1,1 +1,1 @@
-print(help)
+https://github.com/YandexLyceum/human.git
